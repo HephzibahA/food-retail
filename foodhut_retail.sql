@@ -7,9 +7,8 @@ FROM foodHut.FoodHut_Analysis_Analysis
 WHERE TransactionType = 'expenses'
 GROUP BY Date;
 
--- operational_Cost
 
--- cost_of_sales
+-- cost_of_sales and operatioal cost
 
 WITH calc AS (SELECT Date,  SUM(IF(category NOT IN
                             ('electricity', 'rent', 'salaries', 'petroleum')AND TransactionType = 'expenses',AmountP,0)) AS cost_of_sales,
