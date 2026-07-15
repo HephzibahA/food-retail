@@ -1,4 +1,4 @@
-FoodHut Sales & Margin Dashboard
+FoodRetail Sales & Margin Dashboard
 A complete data pipeline and interactive Tableau workbook analyzing monthly financial performance, operational costs, and profitability margins.
 
 Project Overview
