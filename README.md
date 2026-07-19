@@ -1,12 +1,16 @@
+# FoodRetail Sales & Margin Dashboard
 
+A complete data pipeline and interactive Tableau workbook analyzing monthly financial performance, operational costs, and profitability margins.
 
+---
 
+### 📊 Project Deliverables
+* **[📁 View the Raw SQL Data Transformation Code]([#-the-sql-transformation-code](https://github.com/HephzibahA/food-retail/blob/main/food_retail.sql))**
 
-
-
+![Dashboard Preview]
 <img width="1005" height="807" alt="food-retail-dashboard" src="https://github.com/user-attachments/assets/79503c6b-2e57-40ca-b801-638bd1149ccf" />
 
-FoodRetail Sales & Margin Dashboard
+### Project Overview
 
 A complete data pipeline and interactive Tableau workbook analyzing monthly financial performance, operational costs, and profitability margins.
 
