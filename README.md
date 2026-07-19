@@ -11,7 +11,7 @@ Dashboard Preview
 
 A complete data pipeline and interactive Tableau workbook analyzing monthly financial performance, operational costs, and profitability margins.
 
-Data Pipeline & Prep Work
+# Data Pipeline & Prep Work
 
 1. Extraction & Querying (SQL)
    
@@ -31,7 +31,7 @@ Resolved key schema differences between the sales and margin datasets.
 
 Established a solid relationship model to stitch together mismatched dimensional granularities on the fly.
 
-Key Visualizations
+# Key Visualizations
 
 Cost vs. Revenue Analysis: Stacked visual breakdown comparing cost of sales and monthly operational overhead.
 
