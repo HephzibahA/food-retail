@@ -1,3 +1,11 @@
+
+
+
+
+
+
+<img width="1005" height="807" alt="food-retail-dashboard" src="https://github.com/user-attachments/assets/79503c6b-2e57-40ca-b801-638bd1149ccf" />
+
 FoodRetail Sales & Margin Dashboard
 
 A complete data pipeline and interactive Tableau workbook analyzing monthly financial performance, operational costs, and profitability margins.
